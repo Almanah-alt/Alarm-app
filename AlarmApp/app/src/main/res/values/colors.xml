@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#398377</color>
+    <color name="colorPrimaryDark">#398377</color>
+    <color name="colorAccent">#398377</color>
+    <color name="line_color">#AFB3B2</color>
+    <color name="switch_color">#C2335F</color>
+</resources>
